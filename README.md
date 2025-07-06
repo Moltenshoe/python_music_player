@@ -19,22 +19,22 @@ It was created as part of a mini project while I'm learning Python and GUI devel
 
 1. Clone this repository:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/YOUR_USERNAME/HarmonyPlayer.git
    cd HarmonyPlayer
-   \`\`\`
+   ```
 
 2. Install dependencies:
 
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 3. Run the application:
 
-   \`\`\`bash
+   ```bash
    python main.py
-   \`\`\`
+   ```
 
 ## Notes
 
