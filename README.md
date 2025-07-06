@@ -1,4 +1,4 @@
-echo "# Harmony Player
+# Harmony Player
 
 This is a simple desktop music player built using Python, PyQt5 for the GUI, and Pygame for audio playback.
 
